@@ -1,0 +1,15 @@
+{
+  "name": "sharejs.vert.x",
+  "version": "0.1.0",
+  "author": "Nelson Silva <nelson.silva@inevo.pt>",
+  "private": true,
+  "dependencies" : {
+    "node.vert.x": "git://github.com/nelsonsilva/node.vert.x.git",
+    "connect.vert.x": "git://github.com/nelsonsilva/connect.vert.x.git",
+    "sharejs": "git://github.com/nelsonsilva/ShareJS.git#vert.x",
+    "hat": "*"
+  },
+  "devDependencies" : {
+    "coffee-script": "1.1.0"
+  }
+}
