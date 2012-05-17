@@ -1,6 +1,8 @@
-load('node.vert.x.js')
+require('node.vert.x')
+
 connect = require('connect')
 sharejs = require('share').server
+
 
 server = connect()
 
